@@ -1,0 +1,4 @@
+1 Diseña una función que, a partir de una cadena, muestre el número de espacios en blanco que contiene.
+2 Diseña una función que, a partir de una cadena, indique el número de ‘a’ que contiene.
+3 Diseña una función que, a partir de una cadena, indique si contiene alguna ‘a’.
+4 Diseña una función a la que se le pase una cadena y devuelva el número de palabras que contiene.
